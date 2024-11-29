@@ -1,0 +1,4 @@
+<div id="filters">
+  <button class="filter-btn" data-category="all">Tout</button>
+  <button class="filter-btn" data-category="Géographie">Géographie</button>
+</div>
